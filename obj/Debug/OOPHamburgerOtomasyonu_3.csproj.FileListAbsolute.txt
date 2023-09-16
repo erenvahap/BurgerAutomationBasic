@@ -1,0 +1,33 @@
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.exe.config
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.exe
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.pdb
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.AssemblyReference.cache
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.SuggestedBindingRedirects.cache
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.Form1.resources
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.Properties.Resources.resources
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.GenerateResource.cache
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.CoreCompileInputs.cache
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.exe
+D:\Gruplar\YZL3160\OOP\2022.10.06\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.pdb
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.exe.config
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.exe
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.pdb
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.AssemblyReference.cache
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.Form1.resources
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.Properties.Resources.resources
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.GenerateResource.cache
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.CoreCompileInputs.cache
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.exe
+C:\Users\Şebnem\Desktop\c# dersler\OOP\20221006\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.pdb
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.exe.config
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.exe
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\bin\Debug\OOPHamburgerOtomasyonu_3.pdb
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.AssemblyReference.cache
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.SuggestedBindingRedirects.cache
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.Form1.resources
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.Properties.Resources.resources
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.GenerateResource.cache
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.csproj.CoreCompileInputs.cache
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.exe
+D:\c# dot.Net\20221006 OOP\OOPHamburgerOtomasyonu_3\OOPHamburgerOtomasyonu_3\obj\Debug\OOPHamburgerOtomasyonu_3.pdb
